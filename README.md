@@ -1,4 +1,15 @@
-# PROJECT_NAME skill
+## TGT Soundboard
+a test soundboard for clips and music
+
+## Description 
+A test soundboard for sound clips and randomized music. Created for the Twigg Gaming and Development team. 
+
+## Examples 
+* "Play a sound..."
+* "Play a song"
+
+## Credits 
+TGTThomas
 
 This skill does ...
 
@@ -18,3 +29,4 @@ Known issues:
 
 TODO:
  - ...
+ 
